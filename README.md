@@ -1,4 +1,4 @@
-♻️ About the App
+♻️ About the Scrapify_App
 
 KabadiConnect is a smart digital platform that connects users with nearby kabadiwalas for easy and hassle-free scrap collection. With just a few taps, users can schedule scrap pickup, view prices, and contribute to a cleaner and greener environment.
 
