@@ -1,16 +1,35 @@
-# kabaadi_wala
+♻️ About the App
 
-A new Flutter project.
+KabadiConnect is a smart digital platform that connects users with nearby kabadiwalas for easy and hassle-free scrap collection. With just a few taps, users can schedule scrap pickup, view prices, and contribute to a cleaner and greener environment.
 
-## Getting Started
+🚀 Key Features
 
-This project is a starting point for a Flutter application.
+📦 Doorstep scrap pickup
 
-A few resources to get you started if this is your first Flutter project:
+📍 Connects with nearby kabadiwalas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+💰 Transparent scrap pricing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⏱️ Easy scheduling & quick service
+
+🌱 Promotes recycling & sustainability
+
+👥 Who Can Use It?
+
+Households
+
+Students & hostels
+
+Apartments & societies
+
+Small shops and offices
+
+🌍 Why Choose KabadiConnect?
+
+Saves time and effort
+
+Encourages responsible waste management
+
+Supports local kabadiwalas
+
+Simple, fast, and eco-friendly
